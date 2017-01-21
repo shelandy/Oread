@@ -1,0 +1,143 @@
+more ideas check: https://www.reddit.com/r/amazonecho/comments/2v15fx/list_of_known_easter_eggs_for_amazon_echo_so_far/
+
+##Basic commands
+    Ask for help: "Oread, help."
+    Mute or unmute: "Oread, mute" or, "Oread, unmute."
+    Stop or pause: "Oread, stop" or, "Oread, shut up."
+    Change volume: "Oread, set volume to 5," "Oread, louder" or, "Oread, turn up/down the volume."
+
+##Media controls
+
+    Play music: "Oread, play some music."
+    Queue specific song or artist: "Oread, play music by [artist]."
+    Play a song based on context: "Oread, play the latest Avett Brothers album" or, "Oread, play that song that goes 'Gotta gotta be down, because I want it all.'"
+    Play Spotify music: "Oread, play [playlist] on Spotify."
+    Play Pandora station: "Oread, play [artist] station on Pandora."
+    Play a radio station: "Oread, play [radio station] on TuneIn."
+    Play an audiobook: "Oread, play [title] on Audible," "Oread, read [title]" or, "Oread, play the book, [title]."
+    Resume the last played audiobook: "Oread, resume my book."
+    Skip audiobook chapters: "Oread, next chapter" or, "Oread, previous chapter."
+    Listen to Alexa read you a Kindle book: "Oread, read me my Kindle book."
+    Set a sleep timer: "Alexa set a sleep timer for 45 minutes" or, "Oread, stop playing in 45 minutes."
+    Song information: "Oread, what's playing?"
+    Music controls: "Oread, play" or, "Oread, next."
+    Restart song: "Oread, restart."
+    Add a song to your Prime Music library: "Oread, add this song."
+    Like or dislike a song on Pandora and iHeartRadio: "Oread, I like this song" or, "Oread, thumbs down."
+
+##Time and date
+
+    Set an alarm: "Oread, set an alarm for 7 a.m." or, "Oread, wake me up at 7 in the morning."
+    Set a repeating alarm: "Oread, set a repeating alarm for weekdays at 7 a.m."
+    Set a timer: "Oread, set a timer for 15 minutes."
+    Set multiple timers: "Oread, set a second timer for 5 minutes."
+    Check timer status: "Oread, how much time is left on my timer?"
+    Ask the time: "Oread, what time is it?"
+    Ask the date: "Oread, what's the date?"
+    Ask when the next alarm is: "Oread, when's my next alarm?"
+    Cancel an alarm: "Oread, cancel my alarm for 2 p.m."
+    Snooze alarm: "Oread, snooze."
+    Check dates: "Oread, when is [holiday] this year?"
+
+##To-do and shopping lists
+
+    Add task to to-do list: "Oread, add 'go to the grocery store' to my to-do list" or, "Oread, I need to make an appointment with the doctor."
+    Create a new to-do item: "Oread, create a to-do."
+    Check calendar events: "Oread, what's on my calendar for tomorrow?"
+    Add an event to a calendar: "Oread, add [event] to my calendar for [day] at [time]" or, "Oread, add an event to my calendar."
+    Create a shopping list: "Oread, add eggs to my shopping list" or, "Oread, I need to buy laundry detergent."
+    Check your shopping list: "Oread, what's on my shopping list?"
+
+##News and weather
+
+    Ask for your Flash Briefing: "Oread, what's my Flash Briefing?"
+    Check headlines: "Oread, what's in the news?"
+    Check weather: "Oread, what's the weather like?" or, "Oread, will it rain today?" or even "Oread, will I need an umbrella today?"
+    Get a weather forecast: "Oread, what's the weather going to be like this weekend?
+    Get traffic information: "Oread, what's my commute look like?" or, "Oread, what's traffic like?"
+    Find movies in nearby theaters: "Oread, what movies are playing?" or, "Oread, what action movies are playing tonight?"
+    Get information on movies playing: "Oread, tell me about the movie [title]."
+    Discover nearby restaurants: "Oread, find me a nearby pizza restaurant."
+    Get operating hours or a phone number for local businesses: "Oread, find the address for Bank of America" or, "Oread, find business hours for Harris Teeter."
+    Get IMDb rating: "Oread, what is the IMDb rating for [movie or TV show]?"
+    Get casting for a movie or show: "Oread, who plays in [movie or TV show]?"
+    Find out who an actor is: "Oread, who plays [character] in [movie or TV show]?"
+    Find an actor's latest work: "Oread, what is [actor]'s latest movie?"
+    Find out who sings a particular song: "Who sings the song [title]?"
+    Get the names of band members: "Who is in the band [name]?"
+    Get album information: "What year did [band] release [song or album]?"
+    Find popular music from an artist: "Oread, what's popular from [artist]?"
+    Sample music from an artist: "Oread, sample songs by [artist]."
+    Find a particular album or song: "Oread, find [song or album] by [artist]."
+
+##Math
+
+    Convert units: "Oread, how many [units] are in [units]?"
+    Convert units: "Oread, how many [units] are in 2 [units]?"
+    Basic math: "Oread, what's 5 plus 7?" or, "Oread, what's 56 times 33?"
+    Advanced math: "Oread, 70 factorial." (Warning: Alexa will list numbers you didn't know existed for about a minute.)
+
+##Definitions and spelling
+
+    Get the definition of a word: "Oread, what's the definition of [word]?"
+    Get the spelling of a word: "Oread, how do you spell [word]?"
+
+##Sports
+
+    Check the results of a finished game: "Oread, what was the score of the [team] game?"
+    Ask when the next Train/bus is scheduled: "Oread, when do the [team] play next?"
+    Find out the results of your favorite teams: "Oread, give me my Sports Update."
+
+##Purchasing Info and cheap/free deal
+
+    Track packages from Ebay/Amazon: "Oread, where's my stuff?" or, "Oread, track my order."
+    Ask about slickdeals: "Oread, what are your deals?"
+
+##Voicecast
+
+    Send current listening to a Fire tablet: "Oread, send that to my Fire tablet."
+    Send to a different profile's Fire tablet: "Oread, show this on [name]'s Fire tablet."
+
+
+Here are all of the smart bulbs that work with Alexa
+
+##Smart home
+Oread can integrate with loads of smart home platforms.  Some require you to enable skills, some don't. Here are some of the varieties of commands you can use, although there are dozens more.
+
+    Turn lights on or off: "Oread, turn on the lights" or, "Oread, turn off the living room lights."
+    Dim the lights: "Oread, dim the lights to 50 percent."
+    Adjust temperature: "Oread, raise the temperature 1 degree."
+    Set temperature: "Oread, set the temperature to 72."
+    Lock your doors: "Oread, lock my back door."
+    Close your garage door: "Oread, ask Garageio to close my garage."
+    Discover smart home devices: "Oread, discover my devices."
+    Pair a Bluetooth device: "Oread, pair" or, "Oread, Bluetooth."
+    Connect to a Bluetooth device: "Oread, connect to my phone."
+    Disconnect from a a Bluetooth device: "Oread, disconnect from my phone."
+    Use IFTTT recipes: "Oread, trigger [IFTTT recipe]."
+    Activate a scene (limited to Control4, Insteon, Lutron Caséta Wireless, Philips Hue, SmartThings and Wink): "Oread, turn on Movie Time" or, "Oread, turn on Bedtime."
+    Control GE appliances with the Geneva skill: "Oread, tell Geneva to preheat my oven to 400 degrees" or, "Oread, ask Geneva is my laundry is dry."
+    Locate a lost phone with the TrackR Lost My Phone skill: "Oread, ask TrackR to find my phone."
+    Control the TV via Harmony hub: "Oread, turn on the TV" or, "Oread, turn on Netflix."    
+    "Oread, turn on the NAS One"    
+
+##Profiles and user accounts
+
+    Switch profiles: "Oread, switch accounts."
+    Check which profile is active: "Oread, which profile is this?"
+
+##Skills
+
+    Enable skills: "Oread, enable Jeopardy!"
+    Disable skills: "Oread, disable Domino's."
+
+##Search
+
+    Get Wikipedia information: "Oread, Wikipedia: [subject]."
+    Tell Alexa to continue reading a Wikipedia entry: "Oread, tell me more."
+    Ask a general question: "Oread, how tall is [person or object's name]?"
+    Ask a general question: "Oread, how many people live in America?"
+    Get a "Game of Thrones" quote: "Oread, give me a 'Game of Thrones' quote."
+
+##Customize Command
+
